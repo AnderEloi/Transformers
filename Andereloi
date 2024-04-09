@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Análise da franquia Transformers</title>
+<style>
+body {
+    background-color: #808080;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #fff;
+}
+
+figure {
+    text-align: center;
+    margin: 15px auto;
+    position: relative;
+}
+
+img {
+    border: 3px solid black;
+    box-shadow: 2px 2px 2px rgba(255, 255, 255, 0.5);
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    transition: box-shadow 0.5s;
+}
+
+figcaption {
+    opacity: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    text-align: center;
+    transition: opacity 0.5s;
+}
+
+figure:hover img {
+    box-shadow: 2px 2px 4px rgba(255, 255, 255, 0.8);
+}
+
+figure:hover figcaption {
+    opacity: 1;
+}
+</style>
+</head>
+<body>
+
+<h1>Transformers: Uma Análise Cinematográfica</h1>
+
+<h2>O começo da saga: "Transformers" (2007)</h2>
+<figure>
+  <img src="transfomers1.png" alt="Transformers (2007)">
+  <figcaption>O primeiro filme da série</figcaption>
+</figure>
+<p>O primeiro filme da franquia, dirigido por Michael Bay, foi lançado em 2007. "Transformers" apresenta uma mistura de ação, efeitos especiais impressionantes e personagens robóticos carismáticos, conquistando o público e dando início a uma série de filmes de grande sucesso. A história acompanha a batalha entre os Autobots, liderados por Optimus Prime, e os malignos Decepticons, em busca do Allspark, uma fonte de poder essencial para a sobrevivência de seu planeta natal, Cybertron.</p>
+
+<h2>A continuação: "Transformers: A Vingança dos Derrotados" (2009)</h2>
+<figure>
+  <img src="transformers2.png" alt="Transformers: A Vingança dos Derrotados (2009)">
+  <figcaption>O segundo filme da série</figcaption>
+</figure>
+<p>A sequência, lançada em 2009, continua a saga épica dos Autobots e Decepticons, trazendo mais batalhas espetaculares e introduzindo novos personagens e reviravoltas na trama. Neste filme, após a descoberta de um fragmento do Allspark na Terra, os Decepticons retornam para buscar vingança e desencadear uma guerra que pode ter consequências catastróficas para ambos os mundos.</p>
+
+<h2>O renascimento: "Transformers: O Lado Oculto da Lua" (2011)</h2>
+<figure>
+  <img src="transformers3.png" alt="Transformers: O Lado Oculto da Lua (2011)">
+  <figcaption>O terceiro filme da série</figcaption>
+</figure>
+<p>O terceiro filme, lançado em 2011, leva a ação para um novo nível, explorando a história dos Transformers na Terra de uma forma mais profunda e revelando segredos antigos que mudam o curso da batalha entre Autobots e Decepticons. Ao investigar uma nave espacial alienígena oculta na Lua, os Autobots descobrem uma ameaça que pode alterar o destino da humanidade e dos próprios Transformers.<i>"Este e meu filme predileto"</i>"</p>
+
+<h2>A era dos Dinobots: "Transformers: A Era da Extinção" (2014)</h2>
+<figure>
+  <img src="transformers4.png" alt="Transformers: A Era da Extinção (2014)">
+  <figcaption>O quarto filme da série</figcaption>
+</figure>
+<p>Neste quarto filme, lançado em 2014, os Dinobots são introduzidos, adicionando uma nova camada de emoção e espetáculo às batalhas entre os gigantes robóticos. A trama continua a explorar o legado dos Transformers na Terra e as consequências de suas ações. Quando uma nova ameaça surge, os Autobots se unem aos humanos para enfrentar um inimigo poderoso e proteger o planeta de uma destruição iminente.</p>
+
+</body>
+</html>
